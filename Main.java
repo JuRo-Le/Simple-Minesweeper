@@ -19,7 +19,7 @@ public class Main {
 	static final String MINE = "mine";
 
 	public static void main(String[] args) {
-		// write your code here
+		// write your code here ...
 		String[][] fields = new String[SIZE][SIZE];
 		String[][] fields_copy = new String[SIZE][SIZE];
 		String[][] fields_blank = new String[SIZE][SIZE];
